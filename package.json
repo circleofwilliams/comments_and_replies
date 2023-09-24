@@ -1,0 +1,18 @@
+{
+  "name": "comment_backend_api",
+  "version": "1.0.0",
+  "description": "implementation of a one to many relationships for comment in a blog post",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "author": "Olamide Williams",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.18.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "mongoose": "^7.5.2"
+  }
+}
